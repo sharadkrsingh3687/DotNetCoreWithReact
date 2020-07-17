@@ -1,0 +1,9 @@
+E:\Repos\BloodDonation\BloodDonation.Models\bin\Debug\netcoreapp3.1\BloodDonation.Models.deps.json
+E:\Repos\BloodDonation\BloodDonation.Models\bin\Debug\netcoreapp3.1\BloodDonation.Models.dll
+E:\Repos\BloodDonation\BloodDonation.Models\bin\Debug\netcoreapp3.1\BloodDonation.Models.pdb
+E:\Repos\BloodDonation\BloodDonation.Models\obj\Debug\netcoreapp3.1\BloodDonation.Models.csprojAssemblyReference.cache
+E:\Repos\BloodDonation\BloodDonation.Models\obj\Debug\netcoreapp3.1\BloodDonation.Models.AssemblyInfoInputs.cache
+E:\Repos\BloodDonation\BloodDonation.Models\obj\Debug\netcoreapp3.1\BloodDonation.Models.AssemblyInfo.cs
+E:\Repos\BloodDonation\BloodDonation.Models\obj\Debug\netcoreapp3.1\BloodDonation.Models.csproj.CoreCompileInputs.cache
+E:\Repos\BloodDonation\BloodDonation.Models\obj\Debug\netcoreapp3.1\BloodDonation.Models.dll
+E:\Repos\BloodDonation\BloodDonation.Models\obj\Debug\netcoreapp3.1\BloodDonation.Models.pdb

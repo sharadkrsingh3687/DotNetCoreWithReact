@@ -1,0 +1,14 @@
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.Service.deps.json
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.Service.dll
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.Service.pdb
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.DAL.dll
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.Models.dll
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.DAL.pdb
+E:\Repos\BloodDonation\BloodDonation.Service\bin\Debug\netcoreapp3.1\BloodDonation.Models.pdb
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.csprojAssemblyReference.cache
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.AssemblyInfoInputs.cache
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.AssemblyInfo.cs
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.csproj.CoreCompileInputs.cache
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.csproj.CopyComplete
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.dll
+E:\Repos\BloodDonation\BloodDonation.Service\obj\Debug\netcoreapp3.1\BloodDonation.Service.pdb

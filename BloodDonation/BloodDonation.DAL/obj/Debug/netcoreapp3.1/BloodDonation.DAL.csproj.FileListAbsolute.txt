@@ -1,0 +1,15 @@
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.Models.dll
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.csprojAssemblyReference.cache
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.AssemblyInfoInputs.cache
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.AssemblyInfo.cs
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.DAL.deps.json
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.DAL.runtimeconfig.json
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.DAL.runtimeconfig.dev.json
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.DAL.dll
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.DAL.pdb
+E:\Repos\BloodDonation\BloodDonation.DAL\bin\Debug\netcoreapp3.1\BloodDonation.Models.pdb
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.csproj.CopyComplete
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.dll
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.pdb
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.genruntimeconfig.cache
+E:\Repos\BloodDonation\BloodDonation.DAL\obj\Debug\netcoreapp3.1\BloodDonation.DAL.csproj.CoreCompileInputs.cache

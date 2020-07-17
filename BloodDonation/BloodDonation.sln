@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodDonation.WebApp", "BloodDonation.WebApp\BloodDonation.WebApp.csproj", "{8100209B-8BD0-4E6B-A3F2-ED2D5E976593}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodDonation.Service", "BloodDonation.Service\BloodDonation.Service.csproj", "{91EE96E9-69B6-42B0-8770-348323EC6596}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodDonation.DAL", "BloodDonation.DAL\BloodDonation.DAL.csproj", "{FAC18A9F-9251-4FBD-B4C9-0C562154D662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodDonation.WebAPI.Common", "BloodDonation.WebAPI.Common\BloodDonation.WebAPI.Common.csproj", "{778D9F62-780E-412C-B5AC-05851F737D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodDonation.WebAPI", "BloodDonation.WebAPI\BloodDonation.WebAPI.csproj", "{AC5F1E93-E941-4A31-A53A-DDD6EB5071EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodDonation.Models", "BloodDonation.Models\BloodDonation.Models.csproj", "{86656080-85C2-4FC6-BE37-F07EDAF3BCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8100209B-8BD0-4E6B-A3F2-ED2D5E976593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8100209B-8BD0-4E6B-A3F2-ED2D5E976593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8100209B-8BD0-4E6B-A3F2-ED2D5E976593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8100209B-8BD0-4E6B-A3F2-ED2D5E976593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EE96E9-69B6-42B0-8770-348323EC6596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EE96E9-69B6-42B0-8770-348323EC6596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EE96E9-69B6-42B0-8770-348323EC6596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EE96E9-69B6-42B0-8770-348323EC6596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC18A9F-9251-4FBD-B4C9-0C562154D662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC18A9F-9251-4FBD-B4C9-0C562154D662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC18A9F-9251-4FBD-B4C9-0C562154D662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC18A9F-9251-4FBD-B4C9-0C562154D662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778D9F62-780E-412C-B5AC-05851F737D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778D9F62-780E-412C-B5AC-05851F737D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778D9F62-780E-412C-B5AC-05851F737D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778D9F62-780E-412C-B5AC-05851F737D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5F1E93-E941-4A31-A53A-DDD6EB5071EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5F1E93-E941-4A31-A53A-DDD6EB5071EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5F1E93-E941-4A31-A53A-DDD6EB5071EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5F1E93-E941-4A31-A53A-DDD6EB5071EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86656080-85C2-4FC6-BE37-F07EDAF3BCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86656080-85C2-4FC6-BE37-F07EDAF3BCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86656080-85C2-4FC6-BE37-F07EDAF3BCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86656080-85C2-4FC6-BE37-F07EDAF3BCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1198D343-E57D-49B0-BB66-72366B87FFE2}
+	EndGlobalSection
+EndGlobal
